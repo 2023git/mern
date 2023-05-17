@@ -1,0 +1,47 @@
+/* .text-cont {
+  background-color: #171813;
+  padding: 20px;
+  border-radius: 5px; 
+
+  font-size: 20px;
+  color: rgb(217, 205, 182);
+  margin-top: 1%; 
+  margin-bottom: 1%;
+  margin-left: 1%;
+  margin-right: 1%;
+} 
+
+
+
+.parent-container{
+
+
+} */
+
+
+.myPosts {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.text-conta {
+  padding: 10px;
+  margin-top: 1px;
+  background-color: #171813;
+  border-radius: 8px;
+  margin: 0 auto; 
+}
+
+
+.text-cont {
+  font-size: 20px;
+  color: rgb(217, 208, 182);
+  margin-top: 1%; 
+  margin-bottom: 1%;
+  margin-left: 1%;
+  margin-right: 1%;
+} 
+
+
+
